@@ -19,11 +19,10 @@ A powerful voice-enabled assistant for EchoEats food ordering application that a
 | **Navigation** | "go to home", "show cart", "open orders" | Navigates to specified page |
 | **Filter** | "show me pizzas", "show burgers", "display main course" | Filters items by category |
 | **Order** | "add one pizza", "add three burgers", "order two biryani" | Adds items to cart |
-| **Login** | "login", "sign in" | Initiates voice login flow |
 | **Logout** | "logout", "sign out" | Logs out current user |
 | **Checkout** | "go to checkout", "proceed to payment" | Opens payment modal |
 
-## 🚀 How It Works
+##  How It Works
 
 ### 1. **Activation**
 - Click the 🎤 microphone button floating at the bottom-right
